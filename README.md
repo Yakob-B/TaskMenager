@@ -35,7 +35,6 @@ TASKMENAGER/
 
 1. **Clone the repository:**
 
-   ```bash
    git clone git remote add origin https://github.com/Yakob-B/TaskMenager.git
    cd TaskMenager
  2 Install dependencies:
